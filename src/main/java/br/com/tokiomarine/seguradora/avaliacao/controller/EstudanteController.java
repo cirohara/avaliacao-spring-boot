@@ -86,6 +86,6 @@ public class EstudanteController {
 	public String apagarEstudante(Estudante estudante, Model model) {
 		er.delete(estudante);
 		model.addAttribute("estudantes", er.findAll());
-		return "index";
+		return "redirect:/estudantes/listar";
 	}
 }
