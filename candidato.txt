@@ -1,0 +1,9 @@
+Nome: Ciro Shoiti Hara
+
+Codigo ajustado conforme solicitado no arquivo word.
+
+Commit realizado direto na master do meu proprio repositorio.
+
+Condigo implmentado com IDE IntelliJ.
+
+Testes também realizados em IDE Eclipse.
